@@ -1,0 +1,9 @@
+openai-whisper
+pyaudio
+noisereduce
+torch
+vaderSentiment
+TTS
+sounddevice
+soundfile
+elevenlabs
